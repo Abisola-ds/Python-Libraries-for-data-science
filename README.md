@@ -3,11 +3,11 @@ This repositories contain tutorials on the top libraries used in data science vi
 
 In this repository, we provided tutorials on the top Python libraries every data scientist should know. These libraries are:
 
-**NumPy**
+NumPy
 
-**Pandas**
+Pandas
 
-**Matplotlib**
+Matplotlib
 
 
 **Prerequisite**
