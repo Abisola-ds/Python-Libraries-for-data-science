@@ -9,6 +9,7 @@ Pandas
 
 Matplotlib
 
+There are three notebooks in this repository, each for the libraries listed above. 
 
 **Prerequisite**
 
